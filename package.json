@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.7.2",
-  "description": "The official app for Moodle.",
+  "name": "eduvidualmobile",
+  "version": "1.0.0",
+  "description": "The official app for eduvidual.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Zentrum für Lernmanagement.",
+    "email": "robert.schrenk@lernmanagement.at"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -216,7 +216,7 @@
       "category": "public.app-category.education",
       "icon": "resources/desktop/icon.icns",
       "target": "mas",
-      "bundleVersion": "3.7.2",
+      "bundleVersion": "1.0.0",
       "extendInfo": {
         "ElectronTeamID": "2NU57U5PAW"
       }
